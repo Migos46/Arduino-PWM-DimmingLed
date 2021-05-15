@@ -1,0 +1,4 @@
+{
+    "sketch": "PWM_LedDimmingBrigthing.ino",
+    "board": "arduino:avr:uno"
+}
